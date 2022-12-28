@@ -35,9 +35,7 @@ public class Main {
      	    break;
 
      	case 2:ManualTesting();
- 	    break;
- 	    	    
-
+ 	    break;	    	    
 		 }
 	}
 		
